@@ -1,6 +1,4 @@
-select distinct num as ConsecutiveNums
-from (
-    select num, lag(num,1) over (order by id) as pv1,lag(num,2) over (order by id) as pv2
-    from Logs
-) t
-where num=pv1 and num=pv2;
+select distinct l1.num as ConsecutiveNums
+from Logs l1
+join Logs l2 on l1.id=l2.id-1 and l1.num=l2.num
+join Logs l3 on l1.id=l3.id-2 and l1.num=l3.num;
