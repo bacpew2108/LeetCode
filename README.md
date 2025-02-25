@@ -29,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/bacpew2108/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bacpew2108/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [3711-first-letter-capitalization-ii](https://github.com/bacpew2108/LeetCode/tree/master/3711-first-letter-capitalization-ii) |
+| [3792-find-invalid-ip-addresses](https://github.com/bacpew2108/LeetCode/tree/master/3792-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
