@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/bacpew2108/LeetCode/tree/master/0608-tree-node) |
 | [1179-game-play-analysis-i](https://github.com/bacpew2108/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/bacpew2108/LeetCode/tree/master/1182-game-play-analysis-iv) |
+| [1268-market-analysis-i](https://github.com/bacpew2108/LeetCode/tree/master/1268-market-analysis-i) |
 | [1480-movie-rating](https://github.com/bacpew2108/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bacpew2108/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2057-count-salary-categories](https://github.com/bacpew2108/LeetCode/tree/master/2057-count-salary-categories) |
