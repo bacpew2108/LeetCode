@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/bacpew2108/LeetCode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/bacpew2108/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/bacpew2108/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
+| [1301-reformat-department-table](https://github.com/bacpew2108/LeetCode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/bacpew2108/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1480-movie-rating](https://github.com/bacpew2108/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bacpew2108/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
