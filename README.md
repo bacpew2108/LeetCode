@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bacpew2108/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/bacpew2108/LeetCode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/bacpew2108/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/bacpew2108/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/bacpew2108/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/bacpew2108/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/bacpew2108/LeetCode/tree/master/0608-tree-node) |
