@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/bacpew2108/LeetCode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/bacpew2108/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/bacpew2108/LeetCode/tree/master/1338-queries-quality-and-percentage) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/bacpew2108/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/bacpew2108/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bacpew2108/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2057-count-salary-categories](https://github.com/bacpew2108/LeetCode/tree/master/2057-count-salary-categories) |
