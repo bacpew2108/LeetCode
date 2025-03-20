@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/bacpew2108/LeetCode/tree/master/2087-confirmation-rate) |
 | [3711-first-letter-capitalization-ii](https://github.com/bacpew2108/LeetCode/tree/master/3711-first-letter-capitalization-ii) |
 | [3792-find-invalid-ip-addresses](https://github.com/bacpew2108/LeetCode/tree/master/3792-find-invalid-ip-addresses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bacpew2108/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bacpew2108/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
